@@ -8,4 +8,4 @@
 * IntroductionToAndroidSecurityAndMalware_AJM: 
     * Project report for Department of Energy Internship during Summer of 2014.
 * IntroductionToAndroidSecurityAndMalware_PosterBoard_AJM: 
-    * Poster presentation for Department of Engergy Internship during summer of 2014.
+    * Poster presentation for Department of Engergy Internship during Summer of 2014.
